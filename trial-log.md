@@ -68,5 +68,5 @@
 - Bundle: `~/workspace/make-fun/u-0xkianno-one-emoji-one-smile-5470751f-bundle.tar.gz`, sha256 `bde52cad0b5abec0747becb98adae2b0e777518e5f8ab6a379dd6194ad4b359a`
 - Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 78.3%, thinking_priced pass)
 - Submitted 2026-11-23T23:51:45.449Z, submission `01a20ad2-a036-7156-8687-364c490044d9`, commit `0625f5671885676ba177bfac5e557c3268b96fcf`
-- Status at submit +1 min: stage checked (checks pass); scored pending — re-checked below
+- Status at submit +1 min: stage checked (checks pass); re-checked ~23:53Z: **stage scored**
 - Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-emoji.txt` (never in chat)
